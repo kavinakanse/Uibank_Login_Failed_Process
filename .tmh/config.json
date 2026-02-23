@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/kavinhkywaof/DefaultTenant/testmanager_",
+  "defaultProject": {
+    "id": "ef5fe031-1172-0000-56a7-0b493a7bd391",
+    "name": "UiBank Login",
+    "key": "UBL"
+  }
+}

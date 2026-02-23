@@ -1,0 +1,6 @@
+{
+  "Name": "UiBank Login Test",
+  "ProjectType": "Tests",
+  "Description": "",
+  "MainFile": "Main.xaml"
+}

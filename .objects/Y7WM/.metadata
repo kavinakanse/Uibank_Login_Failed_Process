@@ -1,0 +1,11 @@
+﻿{
+  "Name": "UiPathLogin",
+  "Type": "App",
+  "Id": "Y7WMTWHk_0SxCJgfCOAyqg",
+  "Reference": "s9BhahdBgkm_Pis9r12Alw/Y7WMTWHk_0SxCJgfCOAyqg",
+  "Created": "2026-01-27T14:31:11.7888602Z",
+  "Updated": "2026-01-27T14:31:11.7888602Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
