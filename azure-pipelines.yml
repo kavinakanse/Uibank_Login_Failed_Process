@@ -24,4 +24,5 @@ steps:
     testTarget: 'TestSet'
     orchestratorConnection: 'AzureDev'
     testSet: 'AzureTestSet'
+    folderName: 'Kavina'
     traceLevel: 'None'
